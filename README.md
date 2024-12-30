@@ -61,21 +61,7 @@ One of the playlists I usually listen to when I'm studying or coding 😁:
 
 Thank you for your donation, it is through it that I am able to maintain this content 😊.
 
-### Buy me a coffee
-
-[![Buy me a coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-red?logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/natorsc "Help maintain this project with a donation. bmc.")
-
-<img alt="bmc-qrcode" src="https://justcode.com.br/wp-content/uploads/2024/05/bmc-qrcode.webp" title="Help maintain this project with a donation. bmc" width="150"/>
-
-### Ko-Fi
-
-[![Ko-Fi](https://img.shields.io/badge/-Ko%20Fi-orange?logo=ko-fi&logoColor=white)](https://ko-fi.com/natorsc "Help maintain this project with a donation. ko-fi.")
-
-<img alt="ko-fi-qrcode" src="https://justcode.com.br/wp-content/uploads/2024/05/ko-fi-qrcode.webp" title="Help maintain this project with a donation. ko-fi." width="150"/>
-
 ### Pix
-
-<img alt="pix-qrcode" src="https://justcode.com.br/wp-content/uploads/2024/05/pix-qrcode.webp" title="Help maintain this project with a donation. pix." width="150"/>
 
 **Chave**: `b1839493-2afe-484d-9272-82a3e402b36f`
 
